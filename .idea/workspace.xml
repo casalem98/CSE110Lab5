@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4f8e863-22ce-491f-9bab-4835332d74dc" name="Default Changelist" comment="" />
+    <list default="true" id="a4f8e863-22ce-491f-9bab-4835332d74dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bCZmfkO7f7m2d44KJ5Z9JzRP8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +34,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -50,7 +58,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FahrenheitTest">
+  <component name="RunManager" selected="JUnit.CelsiusTest">
     <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.temperature.TemperatureConverter" />
       <module name="Project110" />
@@ -112,9 +120,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CelsiusTest" />
         <item itemvalue="JUnit.FahrenheitTest" />
         <item itemvalue="JUnit.FahrenheitTest.testFahrenheitToCelsius" />
-        <item itemvalue="JUnit.CelsiusTest" />
         <item itemvalue="Application.TemperatureConverter" />
       </list>
     </recent_temporary>
@@ -129,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588138196275</updated>
-      <workItem from="1588138201225" duration="4292000" />
+      <workItem from="1588138201225" duration="5298000" />
     </task>
     <servers />
   </component>
@@ -149,22 +157,22 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="458" y="206" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.800@0.23.1440.800" timestamp="1588139947608" />
-    <state width="1358" height="192" key="GridCell.Tab.0.bottom" timestamp="1588179208488">
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom" timestamp="1588181322835">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1588179208488" />
-    <state width="1358" height="192" key="GridCell.Tab.0.center" timestamp="1588179208487">
+    <state width="1358" height="204" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1588181322835" />
+    <state width="1358" height="204" key="GridCell.Tab.0.center" timestamp="1588181322833">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1588179208487" />
-    <state width="1358" height="192" key="GridCell.Tab.0.left" timestamp="1588179208486">
+    <state width="1358" height="204" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1588181322833" />
+    <state width="1358" height="204" key="GridCell.Tab.0.left" timestamp="1588181322833">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1588179208486" />
-    <state width="1358" height="192" key="GridCell.Tab.0.right" timestamp="1588179208487">
+    <state width="1358" height="204" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1588181322833" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right" timestamp="1588181322835">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1588179208487" />
+    <state width="1358" height="204" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1588181322835" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1588139987844">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
